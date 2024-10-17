@@ -8,7 +8,7 @@ const navigate = useNavigate();
 
 const handleCreateActivityClick = (e) => {
 e.preventDefault();
-navigate('/quiz');
+navigate('/quizsetup');
 };
 
 return (
